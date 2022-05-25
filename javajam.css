@@ -1,0 +1,42 @@
+body{
+    background-color: #f6ba05;
+    color: #221811;
+    font-family: Tahoma, Arial, Helvetica;
+}
+header{
+    background-color: #edde05;
+    color: #0c70e2;
+    text-align: center;
+}
+
+h1{
+    line-height: 200%;
+}
+h2{
+    color: #8C3826;
+    text-decoration: underline;
+}
+nav{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+footer{
+    background-color: #D2B48C;
+    font-size: .60em;
+    font-style: italic;
+    text-align: center;
+}
+#wrapper{
+    background-color: #FEFAEB;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+dd{
+    font-style: italic;
+}
+span{
+    color: blue;
+    font-weight: bolder;
+}
